@@ -1,2 +1,3 @@
 DATA/Experiments.csv
 config_test.json
+.gitignore
