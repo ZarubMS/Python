@@ -102,7 +102,7 @@ def load():
 	data = load_data["data"]
 	write_csv(get_config_data("result_path")+get_arg("file_name"), get_config_data("json_headers"), data)
 	
-	
+
 	
 
 load()
